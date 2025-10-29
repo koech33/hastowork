@@ -101,7 +101,7 @@ if name:
             # --- Surprise ---
             if st.session_state.show_surprise:
                 st.success("Ta-da!!")
-                st.image("sleep.jpeg", width=700)
+                st.video("vidvid.mp4", width=700)
 
 
                 st.balloons()
@@ -133,5 +133,6 @@ if name:
     else:
         st.error("🚫 Access Denied! This app is not for you 💅")
         st.stop()
+
 
 
