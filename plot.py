@@ -110,8 +110,9 @@ if name:
                 """, unsafe_allow_html=True)
                 st.write("""
                 Jokes aside though, Happy Birthday!  
-                Najua nimekua nikitroll hii app mzima but I wanted to make something memorable.  
-                Hope you like it — and that I survive your ragebait for one more year 😂😂  
+                Najua nimekua nikikutroll kwa hii app mzima but it's because I wanted to make something a bit more memorable.
+                You're an amazing person to hang around with and this is the least i could do to show my appreciation.
+                Hope you like it — and I also hope nitakuwa na nguvu ya kusurvive your ragebait for one more year 😂😂  
                 **Happy Birthday Suheila 🫶**
                 """)
             elif st.session_state.show_surprise is False:
@@ -133,6 +134,7 @@ if name:
     else:
         st.error("🚫 Access Denied! This app is not for you 💅")
         st.stop()
+
 
 
 
