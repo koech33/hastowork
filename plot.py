@@ -101,7 +101,7 @@ if name:
             # --- Surprise ---
             if st.session_state.show_surprise:
                 st.success("Ta-da!!")
-                st.image("sleep.jpeg", width=700)
+                st.image("c35a53d3-d3a8-44aa-a3ca-08c944b53e0f.jpeg", width=700)
 
 
                 st.balloons()
