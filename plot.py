@@ -113,6 +113,7 @@ if name:
                 Najua nimekua nikikutroll kwa hii app mzima but it's because I wanted to make something a bit more memorable.
                 Maybe we'll be laughing about this in the future, tukicheka vituko we would do when we were young lovers.
                 I really hope you like it 
+                
                 **Happy Birthday Gloria 🫶**
                 """)
             elif st.session_state.show_surprise is False:
