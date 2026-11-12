@@ -44,8 +44,8 @@ st.image(
 name = st.text_input("Enter your name to continue 👇")
 
 if name:
-    if name.strip().lower() == "suheila":
-        st.success("Welcome, Suheila! 💖")
+    if name.strip().lower() == "gloria":
+        st.success("Welcome, Gloria! 💖")
         time.sleep(1)
 
         st.header("You also want to know what happens on the same week coincidentally?")
@@ -101,7 +101,7 @@ if name:
             # --- Surprise ---
             if st.session_state.show_surprise:
                 st.success("Ta-da!!")
-                st.video("vidvid.mp4", width=700)
+                st.image("sleep.jpeg", width=700)
 
 
                 st.balloons()
